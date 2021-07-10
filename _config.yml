@@ -1,3 +1,3 @@
 timezone: America/Chicago
 title: Jason W. Thompson
-remote_theme: mzlogin/mzlogin.github.io
+theme: jekyll-theme-architect
